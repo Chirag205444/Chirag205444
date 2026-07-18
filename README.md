@@ -69,6 +69,17 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 [CampusHub — AI-Powered Campus Event Management Platform](https://clg-evnt-mng-n9mhv933m-chirag4.vercel.app/)
+
+- AI-powered campus assistant using Google Gemini for intelligent event queries
+- Role-based authentication with secure JWT authorization for Students and Coordinators
+- Complete event lifecycle management with registrations, CSV export, and coordinator dashboard
+- Infinite scrolling, smart event discovery, and responsive modern UI built for seamless user experience
+
+**Tech Stack:** MERN, Google Gemini AI, JWT, MongoDB Atlas, Tailwind CSS
+
+---
+
 ### 🤖 [CODISH Nova — AI-Powered Senior Code Reviewer](https://ai-review-mrn.vercel.app/)
 
 - AI-powered code review platform using Gemini AI
