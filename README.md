@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Chirag Shetty</h1>
 
 <h3 align="center">
-🚀 Emerging Full-Stack MERN Developer | AI & ML Enthusiast | Building Scalable Web Applications
+🚀 Emerging Full-Stack MERN Developer | Data, AI & ML Enthusiast | Building Scalable Web Applications
 </h3>
 
 <p align="center">
